@@ -47,6 +47,7 @@ Columns in the dataset capture information regarding the start and end stations,
 2.	Data exploration
 
 -	The total number of rows was verified to be 5,555,694
+![image](https://github.com/HoyeonJoeKang/Google-Data-Analytics-Capstone-Cyclistic-by-Hoyeon_Kang/assets/126655433/a792210b-a056-40b5-adf2-308ccadc3663)
 
 
 -	The table provided below outlines all the columns along with their respective data types, and the primary key is ‘ride_id’.

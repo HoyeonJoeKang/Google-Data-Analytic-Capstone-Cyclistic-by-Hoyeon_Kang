@@ -1,4 +1,4 @@
-# Google_Data_Analytics_Certificate_Cyclistic_Hoyeon_Kang
+# Google Data Analytics Capstone: Cyclistic by Hoyeon_Kang
 Google Data Analytics Capstone: Cyclistic Case Study
 
 ![image](https://github.com/HoyeonJoeKang/Google_Data_Analytics_Certificate_Cyclistic_Hoyeon_Kang/assets/126655433/896310c3-9d5c-4820-bff7-a994ea90140b)

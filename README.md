@@ -236,4 +236,4 @@ Here is a recap of the response to the question: How do annual members and casua
 1.	To examine the current pricing and develop a new pricing strategy, in order to encourage casual riders to join membership, ensuring the annual membership appears more cost-effective than single-ride and day passes.
 2.	To add membership benefits: advance reservation during peak time or season, late charge waiver, etc.
 3.	To consider another annual membership product development reflecting the needs of current casual riders, since, in terms of ride length, the total ride length of casual riders surpasses that of the current members.
-4.	Launch marketing campaigns or events at places where casual riders frequent to boost engagement. Eg) Streeter Dr & Grand Ave
+4.	To launch marketing campaigns or events at places where casual riders frequent to boost engagement. Eg) Streeter Dr & Grand Ave

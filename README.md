@@ -9,6 +9,9 @@ Google Data Analytics Capstone: Cyclistic Case Study
 ## Business Overview & Task Statement
 
 
+
+
+
 Cyclistic is a notable bike-sharing service with a network of 5,824 geo-tracked bikes located at 692 stations throughout Chicago. These bikes provide the convenience of being picked up from one station and returned to another. In its early marketing days, Cyclistic aimed to appeal to a broad spectrum of consumers, supported by its diverse pricing models: single-ride passes, daily passes, and annual memberships. Those who opt for single-ride or daily passes are categorized as casual riders, while the annual subscribers are termed Cyclistic members. 
 A recent assessment by the marketing and finance teams emphasized that the annual members play a vital role in boosting the company's profitability. As such, there is a growing consensus that future growth largely depends on augmenting the number of annual membership. 
 This report examines the usage trends from August 2022 to July 2023 through the process: ASK – PREPARE – PROCESS – ANALYZE – SHARE - ACT, and proposes marketing strategies to convert casual riders into annual members.

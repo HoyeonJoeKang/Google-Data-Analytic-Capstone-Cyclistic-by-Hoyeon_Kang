@@ -6,20 +6,26 @@ Google Data Analytics Capstone: Cyclistic Case Study
 
 
 
-**Business Overview & Task Statement**
+## Business Overview & Task Statement
+
+
 Cyclistic is a notable bike-sharing service with a network of 5,824 geo-tracked bikes located at 692 stations throughout Chicago. These bikes provide the convenience of being picked up from one station and returned to another. In its early marketing days, Cyclistic aimed to appeal to a broad spectrum of consumers, supported by its diverse pricing models: single-ride passes, daily passes, and annual memberships. Those who opt for single-ride or daily passes are categorized as casual riders, while the annual subscribers are termed Cyclistic members. 
 A recent assessment by the marketing and finance teams emphasized that the annual members play a vital role in boosting the company's profitability. As such, there is a growing consensus that future growth largely depends on augmenting the number of annual membership. 
 This report examines the usage trends from August 2022 to July 2023 through the process: ASK – PREPARE – PROCESS – ANALYZE – SHARE - ACT, and proposes marketing strategies to convert casual riders into annual members.
 
 
-**ASK**
+## ASK
+
+
 1. How do annual members and casual riders use Cyclistic bikes differently? 
 2. Why would casual riders buy Cyclistic annual memberships? 
 3. How can Cyclistic use digital media to influence casual riders to become members?
 
 
 
-**Prepare(Excel, BigQuery)**
+## Prepare(Excel, BigQuery)
+
+
   The dataset available in the "Index of bucket "divvy-tripdata" is a public offering generously shared by Motivate International Inc. under a specified license. Ensuring user privacy, the dataset excludes personal details, making it impossible to identify individual riders' usage patterns.
 Columns in the dataset capture information regarding the start and end stations, the start and end times of the rides, and the categorization of riders as either members or casual users. Columns indicating the latitude and longitude of the stations also prove useful for visual data representation.
 
@@ -78,7 +84,9 @@ Columns in the dataset capture information regarding the start and end stations,
 
 
 
-**Process(BigQuery)**
+## Process(BigQuery)
+
+
 1.	Rows containing any NULL values were removed, as executed with the following code:
 
 ![image](https://github.com/HoyeonJoeKang/Google_Data_Analytics_Certificate_Cyclistic_Hoyeon_Kang/assets/126655433/1d259ab9-9dfd-4308-ab0e-68c57e981cb7)
@@ -166,7 +174,8 @@ Columns in the dataset capture information regarding the start and end stations,
 
 
 
-**Analyze and Share(Tableau)**
+## Analyze and Share(Tableau)
+
 
 ![image](https://github.com/HoyeonJoeKang/Google_Data_Analytics_Certificate_Cyclistic_Hoyeon_Kang/assets/126655433/da3fba8f-ebde-4da9-8c31-13435ae2b661)
 
@@ -228,7 +237,9 @@ To better comprehend the distinctions between casual and member riders in Chicag
 On the map illustrating both starting and ending stations, it is observable that member usage is evenly spread across the city, especially around commercial areas, residential areas, and universities. On the other hand, casual riders primarily frequent stations close to the lakeside, such as those near museums, parks, and eateries.
 
 
-**Key Takeaways**
+## Key Takeaways
+
+
 Here is a recap of the response to the question: How do annual members and casual riders use Cyclistic bikes differently?
 
 
@@ -236,7 +247,9 @@ Here is a recap of the response to the question: How do annual members and casua
 
 
 
-**Strategy Recommendations**
+## Strategy Recommendations
+
+
 1.	To examine the current pricing and develop a new pricing strategy, in order to encourage casual riders to join membership, ensuring the annual membership appears more cost-effective than single-ride and day passes.
 2.	To add membership benefits: advance reservation during peak time or season, late charge waiver, etc.
 3.	To consider another annual membership product development reflecting the needs of current casual riders, since, in terms of ride length, the total ride length of casual riders surpasses that of the current members.
